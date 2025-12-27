@@ -1,2 +1,3 @@
 # Applied-AI-Business-Automation
-Applied AI and workflow automation projects focused on business process optimization using no-code/low-code tools, conversational AI, and digital systems design.
+This repository contains applied AI and automation projects built using n8n, OpenAI, Gemini APIs, and conversational interfaces such as WhatsApp, Telegram, and voice agents.
+The projects focus on reducing repetitive human effort, improving operational efficiency, and enabling scalable business workflows.
